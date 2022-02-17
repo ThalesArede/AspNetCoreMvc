@@ -1,5 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
-using SaleOfSnacks.Models;
+﻿using SaleOfSnacks.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace SaleOfSnacks.Context
 {

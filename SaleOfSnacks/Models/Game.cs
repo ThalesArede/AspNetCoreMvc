@@ -18,6 +18,5 @@
         public int CategoriaId { get; set; } 
         public virtual Categoria Categoria { get; set; } // Propriedades dos Games
 
-
     }
 }
